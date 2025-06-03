@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
-<h3 align="center">A passionate full-stack developer and open-source enthusiast</h3>
+<h3 align="center">Junior Backend Developer specialized in Laravel & Open-Source Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
-- 👨‍💻 I’m currently working on: **Portfolio Projects & Laravel Applications**
-- 🌱 I’m currently learning: **Advanced Backend Architecture & DevOps**
-- 👯 I’m looking to collaborate on: **Open Source Projects**
-- 📫 How to reach me: **[your-email@example.com]**
-- 💬 Fun fact: I love solving real-world problems through code.
+
+- 🎓 I'm a third-year Information Technology Engineering student at **Damascus University** with a GPA of 82.6.
+- 👨‍💻 Currently focusing on **Backend Development** with **Laravel**, and building full-stack web applications.
+- 🧠 I have completed internships at **Darrebni** and **Globe**, where I developed real-world Laravel projects and presented them successfully.
+- 🥉 Awarded **Outstanding Intern (3rd Place)** for high performance and contribution in cross-functional teams.
+- 💼 Experienced in using **Blade templates**, **RESTful APIs**, and version control tools like **Git & GitHub**.
+- 🔁 Agile team player who actively participates in sprint planning and daily standups.
+- 🌍 Based in Damascus, Syria and fluent in Arabic & English (B2 level).
+- ✨ Passionate about creating impactful, user-focused digital solutions.
 
 ---
 
@@ -91,11 +95,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aliahmad542&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad542&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-> ✨ *Thanks for visiting! Keep coding and building amazing things!* ✨
+### 📫 Connect with Me
+
+- 📧 Email: **aliahmadal917@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/ali-ahmad-9178b3364](https://linkedin.com/in/ali-ahmad-9178b3364)  
+- 🧑‍💻 GitHub: [github.com/aliahmad542](https://github.com/aliahmad542)
+
+---
+
+> ✨ *Thanks for visiting my profile. Keep building, keep learning!* ✨
