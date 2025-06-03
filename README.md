@@ -1,36 +1,101 @@
-# ali-ahmad   <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
-<h3 align="center">Junior Laravel Backend Developer | IT Student @Damascus University</h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate full-stack developer and open-source enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 3rd-year IT Engineering student at **Damascus University**  
-- 🛠️ Junior Backend Developer, focused on **Laravel**, **PHP**, and **MySQL**  
-- 🏆 **3rd Place Outstanding Intern** at Darrebni  
-- 💬 Ask me about **REST APIs**, **Authentication**, or anything Laravel!  
-- 📫 Reach me at: **aliahmadal917@gmail.com**  
-- 🌐 Connect on [LinkedIn](https://linkedin.com/in/ali-ahmad-9178b3364)
+### 🚀 About Me
+- 👨‍💻 I’m currently working on: **Portfolio Projects & Laravel Applications**
+- 🌱 I’m currently learning: **Advanced Backend Architecture & DevOps**
+- 👯 I’m looking to collaborate on: **Open Source Projects**
+- 📫 How to reach me: **[your-email@example.com]**
+- 💬 Fun fact: I love solving real-world problems through code.
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</p>
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+---
+
+### 🌐 Web Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
+<ul>
+  <li>RESTful APIs</li>
+  <li>GraphQL</li>
+</ul>
+
+---
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🗃️ Databases & ORMs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</p>
+<ul>
+  <li>Eloquent ORM</li>
+</ul>
+
+---
+
+### 🔧 Version Control & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+---
+
+### ✅ Quality & Automation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📋 Project Management
+- Agile  
+- Scrum
+
+---
+
+### 🐳 DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-ahmad&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-ahmad&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+---
+
+> ✨ *Thanks for visiting! Keep coding and building amazing things!* ✨
