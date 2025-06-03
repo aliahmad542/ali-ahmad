@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Ali Ahmad]</h1>
+<h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
 <h3 align="center">A passionate full-stack developer and open-source enthusiast</h3>
 
 ---
