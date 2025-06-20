@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
-<h3 align="center">Junior Backend Developer specialized in Laravel & Open-Source Enthusiast</h3>
+<h3 align="center">Backend Developer | PHP & Laravel Developer | IT Engineering Student – Damascus University</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎓 I'm a third-year Information Technology Engineering student at **Damascus University** with a GPA of 82.6.
 - 👨‍💻 Currently focusing on **Backend Development** with **Laravel**, and building full-stack web applications.
-- 🧠 I have completed internships at **Darrebni** and **Globe**, where I developed real-world Laravel projects and presented them successfully.
+- 🧠 I have completed internships at **Darrebni**, where I developed real-world Laravel projects and presented them successfully.
 - 🥉 Awarded **Outstanding Intern (3rd Place)** for high performance and contribution in cross-functional teams.
 - 💼 Experienced in using **Blade templates**, **RESTful APIs**, and version control tools like **Git & GitHub**.
 - 🔁 Agile team player who actively participates in sprint planning and daily standups.
