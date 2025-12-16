@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
-<h3 align="center">Backend Developer | PHP & Laravel Developer | IT Engineering Student – Damascus University</h3>
+<h3 align="center">Backend Developer | Networks & OS Engineer | IT Engineering Student – Damascus University</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 I'm a third-year Information Technology Engineering student at **Damascus University** with a GPA of 82.6.
+- 🎓 I'm a Fourth-year Information Technology Engineering student at **Damascus University** with a GPA of 82.6.
 - 👨‍💻 Currently focusing on **Backend Development** with **Laravel**, and building full-stack web applications.
 - 🧠 I have completed internships at **Darrebni**, where I developed real-world Laravel projects and presented them successfully.
 - 🥉 Awarded **Outstanding Intern (3rd Place)** for high performance and contribution in cross-functional teams.
